@@ -3,7 +3,7 @@ package ru.maxvagan;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // Task for technical Test of Ticket 5
         Student stud1 = new Student(20, "Maksim");
         Student stud2 = new Student(36, "Maksim");
         Student student = new Student(20, "Maksim");
